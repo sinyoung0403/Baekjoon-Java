@@ -1,5 +1,3 @@
-package Baekjoon;
-
 public class Exam10172 {
   public static void main(String[] args) {
     System.out.println("|\\_/|" + "\n" +
