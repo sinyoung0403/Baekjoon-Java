@@ -1,4 +1,3 @@
-package Baekjoon;
 import java.util.*;
 public class Exam2588 {
   public static void main(String[] args) {
